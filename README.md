@@ -1,7 +1,9 @@
 -👋HI Tushar here
 
 -🤖Currently working on Advanced Surveillance system
+
 -⚙️I like to combine Machine learning with Mechanical Engineering
+
 -📫How to reach me tushareng12@gmail.com
 
 <!---
