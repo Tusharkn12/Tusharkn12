@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tusharkn12
-- 👀 I’m interested in learning technological stuff
-- 🌱 I’m currently learning Mechanical engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tusharedu12@gmail.com
+-👋HI Tushar here
+-🤖Currently working on Advanced Surveillance system
+-⚙️I like to combine Machine learning with Mechanical Engineering
+-📫How to reach me tushareng12@gmail.com
 
 <!---
 Tusharkn12/Tusharkn12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
